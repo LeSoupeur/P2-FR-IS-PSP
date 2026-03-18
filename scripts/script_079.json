@@ -6,8 +6,8 @@
     "data_size": 56,
     "nom_orig": "Yukino",
     "texte_orig": "Hurry,[SP]everyone!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Yukino",
+    "texte_fr": "On se dépêche tout le monde!"
   },
   {
     "id": 1,
@@ -16,8 +16,8 @@
     "data_size": 194,
     "nom_orig": "Tadashi",
     "texte_orig": "But[SP]even[SP]if[SP]we[SP]take[SP]the[SP]blimp,[SP]who's[SP]gonna\nfly[SP]it!?[SP]Tama-chaaaan![SP]I[SP]don't[SP]wanna[SP]die!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Tadashi",
+    "texte_fr": "Même si on monte dans ce dirigeable, qui va le\n le diriger!? Tama-chaaaan! Je ne veux pas mourir!"
   },
   {
     "id": 2,
@@ -26,7 +26,7 @@
     "data_size": 238,
     "nom_orig": "Maya",
     "texte_orig": "Looks[SP]like[SP]the[SP]time[SP]has[SP]come[SP]for[SP]the[SP]genius\ndriver[SP]Maya[SP]Amano[SP]to[SP]show[SP]off[SP]her[SP]skills!\nLeave[SP]this[SP]blimp[SP]to[SP]me!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "On dirait que le moment est venu pour la pilote\nd'exception Maya Amano de montrer l'étendue de ses talents!\nLaissez moi m'en charger!"
   }
 ]
