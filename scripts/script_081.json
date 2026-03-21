@@ -37,7 +37,7 @@
     "nom_orig": "Maya",
     "texte_orig": "King[SP]Leo!?[SP]So[SP]he's[SP]alive...[1205][001E][SP]The[SP]kids[SP]are[SP]in\ndanger![SP]Let's[SP]go,[SP]guys!",
     "nom_fr": "Maya",
-    "texte_fr": "Roi Leo!? Encore en vie donc...[1205][001E] Les enfants sont en\ndanger!Fuyons les gars!"
+    "texte_fr": "Roi Lion!? Encore en vie...[1205][001E] Les enfants sont en\ndanger! Fuyons!"
   },
   {
     "id": 4,
@@ -77,6 +77,6 @@
     "nom_orig": "Maya",
     "texte_orig": "But[SP]I[SP]can't[SP]lose[SP]now![SP]I'm[SP]not[SP]just[SP]facing\nKing[SP]Leo,[SP]after[SP]all.[SP]I'm[SP]up[SP]against[SP]myself,\nas[SP]well!",
     "nom_fr": "Maya",
-    "texte_fr": "Je ne peux pas perdre! Je ne me bats pas\nuniquement contre le Roi Leo, mais aussi\ncontre moi-même!"
+    "texte_fr": "Je ne peux pas perdre! Je ne me bats pas\nseulement face au Roi Lion, mais aussi\ncontre moi-même!"
   }
 ]
